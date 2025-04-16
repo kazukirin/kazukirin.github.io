@@ -11,6 +11,7 @@ gem "base64"
 gem "bigdecimal"
 gem "jekyll"
 gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 gem "jekyll-remote-theme"
