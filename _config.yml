@@ -21,10 +21,11 @@
 title: kazukirin 技術ブログ
 author: KazuKirin
 skin: midnight
+avatar: /logo.jpeg
 email: kirinxxxx9@gmail.com
 lang: ja
-paginate: 3
-date_format: "%Y/%m/%d"
+# paginate: 3
+# date_format: "%Y/%m/%d"
 description: >- # this means to ignore newlines until "baseurl:"
   KazuKirinの技術的な備忘録です。
   VRChatやUnity、CTFについて雑多に書いていく予定です。
