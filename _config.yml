@@ -24,8 +24,9 @@ skin: midnight
 avatar: /logo.jpeg
 email: kirinxxxx9@gmail.com
 lang: ja
+timezone: "Asia/Tokyo"
 # paginate: 3
-# date_format: "%Y/%m/%d"
+date_format: "%Y/%m/%d"
 description: >- # this means to ignore newlines until "baseurl:"
   KazuKirinの技術的な備忘録です。
   VRChatやUnity、CTFについて雑多に書いていく予定です。
@@ -40,6 +41,13 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-archives
+
+#archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layout: archive
 
 # Exclude from processing.
 # The following items will not be processed, by default.

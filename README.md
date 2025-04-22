@@ -2,9 +2,11 @@
 since 2025.04.16
 
 ## Local Debug Command
-```powershell
+```bash
+# gemライブラリのインストール
 bundle install
-bundle exec jekyll serve
+# jekyllのローカルサーバーを起動
+bundle exec jekyll serve --drafts
 ```
 ## Plugins
 - jekyll-theme
